@@ -1,16 +1,6 @@
-# epic_calculator
+# Epik Calculator
 
-A new Flutter project.
+It's nothing special just a simple calculator with basic operations available. It is nothing more than a dummy project I made to learn basics of flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### This is the app: <br>
+<img src="https://user-images.githubusercontent.com/67780454/205383447-56d4b785-ccc0-4722-b12b-aecdb6a5b60d.png" alt="drawing" width="300"/> <br>
